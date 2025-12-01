@@ -1,0 +1,18 @@
+{
+  "success" : true ,
+  "message" : "" ,
+  "data" : {
+    "id": 3,
+    "name": "مجلس شبانه عاشقان",
+    "speaker": "حجت‌الاسلام محمد رمضانپور",
+    "maddah": "سعید حدادیان",
+    "address": "نیشابور، میدان احمد قصیر، حسینیه عاشقان",
+    "location": { "lat": 36.2131, "lng": 58.7950 },
+    "datetime_start": "۱۴۰۴/۰۹/۱۶ ۲۱:۰۰",
+    "datetime_end": "۱۴۰۴/۰۹/۱۶ ۲۳:۰۰",
+    "description": "مراسم دعا و روضه همراه با پذیرایی ساده.",
+    "poster_url": "https://example.com/posters/heiat3.jpg",
+    "contact": "۰۵۱-۳۴۵۶۷۸۹۰",
+    "repeat": "MONTHLY"
+  }
+}

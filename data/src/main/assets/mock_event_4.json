@@ -1,0 +1,18 @@
+{
+  "success" : true ,
+  "message" : "" ,
+  "data" : {
+    "id": 4,
+    "name": "هیئت رهروان حسین",
+    "speaker": "حجت‌الاسلام علی‌اکبری",
+    "maddah": "کربلایی رضا صدر",
+    "address": "اصفهان، پل خواجو، حسینیه رهروان",
+    "location": { "lat": 32.6539, "lng": 51.6660 },
+    "datetime_start": "۱۴۰۴/۰۹/۱۷ ۱۸:۰۰",
+    "datetime_end": "۱۴۰۴/۰۹/۱۷ ۲۰:۳۰",
+    "description": "جلسه مناسب خانواده‌ها و کودکان.",
+    "poster_url": "https://example.com/posters/heiat4.jpg",
+    "contact": "۰۳۱-۳۲۱۰۹۸۷۶",
+    "repeat": "WEEKLY"
+  }
+}

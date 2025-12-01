@@ -1,0 +1,18 @@
+{
+  "success" : true ,
+  "message" : "" ,
+  "data" : {
+    "id": 2,
+    "name": "انجمن حجت",
+    "speaker": "سید مجید بنی‌فاطمه",
+    "maddah": "حسین طاهری",
+    "address": "تهران، میدان هفت تیر، حسینیه انجمن حجت",
+    "location": { "lat": 35.744799847042785, "lng": 51.47403337793685 },
+    "datetime_start": "۱۴۰۴/۰۹/۱۵ ۱۹:۳۰",
+    "datetime_end": "۱۴۰۴/۰۹/۱۵ ۲۱:۳۰",
+    "description": "جلسه هفتگی معرفتی و روضه‌خوانی.",
+    "poster_url": "https://example.com/posters/heiat2.jpg",
+    "contact": "۰۲۱-۲۲۳۳۴۴۵۵",
+    "repeat": "WEEKLY"
+  }
+}

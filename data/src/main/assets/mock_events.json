@@ -1,0 +1,62 @@
+{
+  "success" : true ,
+  "message" : "" ,
+  "data" : [
+    {
+      "id": 1,
+      "name": "هیئت علی‌اصغر",
+      "speaker": "حجت‌الاسلام دکتر عباس ملکی",
+      "maddah": "میثم مطیعی",
+      "address": "مشهد، خیابان احمدآباد، مسجد حضرت ولی‌عصر",
+      "location": { "lat": 35.7433, "lng": 51.4667 },
+      "datetime_start": "۱۴۰۴/۰۹/۱۴ ۲۰:۰۰",
+      "datetime_end": "۱۴۰۴/۰۹/۱۴ ۲۲:۰۰",
+      "description": "مراسم ایام فاطمیه همراه با حضور خانواده‌ها.",
+      "poster_url": "https://example.com/posters/heiat1.jpg",
+      "contact": "۰۵۱-۱۲۳۴۵۶۷۸",
+      "repeat": "ONCE"
+    },
+    {
+      "id": 2,
+      "name": "انجمن حجت",
+      "speaker": "سید مجید بنی‌فاطمه",
+      "maddah": "حسین طاهری",
+      "address": "تهران، میدان هفت تیر، حسینیه انجمن حجت",
+      "location": { "lat": 35.744799847042785, "lng": 51.47403337793685 },
+      "datetime_start": "۱۴۰۴/۰۹/۱۵ ۱۹:۳۰",
+      "datetime_end": "۱۴۰۴/۰۹/۱۵ ۲۱:۳۰",
+      "description": "جلسه هفتگی معرفتی و روضه‌خوانی.",
+      "poster_url": "https://example.com/posters/heiat2.jpg",
+      "contact": "۰۲۱-۲۲۳۳۴۴۵۵",
+      "repeat": "WEEKLY"
+    },
+    {
+      "id": 3,
+      "name": "مجلس شبانه عاشقان",
+      "speaker": "حجت‌الاسلام محمد رمضانپور",
+      "maddah": "سعید حدادیان",
+      "address": "نیشابور، میدان احمد قصیر، حسینیه عاشقان",
+      "location": { "lat": 36.2131, "lng": 58.7950 },
+      "datetime_start": "۱۴۰۴/۰۹/۱۶ ۲۱:۰۰",
+      "datetime_end": "۱۴۰۴/۰۹/۱۶ ۲۳:۰۰",
+      "description": "مراسم دعا و روضه همراه با پذیرایی ساده.",
+      "poster_url": "https://example.com/posters/heiat3.jpg",
+      "contact": "۰۵۱-۳۴۵۶۷۸۹۰",
+      "repeat": "MONTHLY"
+    },
+    {
+      "id": 4,
+      "name": "هیئت رهروان حسین",
+      "speaker": "حجت‌الاسلام علی‌اکبری",
+      "maddah": "کربلایی رضا صدر",
+      "address": "اصفهان، پل خواجو، حسینیه رهروان",
+      "location": { "lat": 32.6539, "lng": 51.6660 },
+      "datetime_start": "۱۴۰۴/۰۹/۱۷ ۱۸:۰۰",
+      "datetime_end": "۱۴۰۴/۰۹/۱۷ ۲۰:۳۰",
+      "description": "جلسه مناسب خانواده‌ها و کودکان.",
+      "poster_url": "https://example.com/posters/heiat4.jpg",
+      "contact": "۰۳۱-۳۲۱۰۹۸۷۶",
+      "repeat": "WEEKLY"
+    }
+  ]
+}

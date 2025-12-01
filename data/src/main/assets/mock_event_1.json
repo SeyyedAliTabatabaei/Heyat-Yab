@@ -1,0 +1,18 @@
+{
+  "success" : true ,
+  "message" : "" ,
+  "data" : {
+    "id": 1,
+    "name": "هیئت علی‌اصغر",
+    "speaker": "حجت‌الاسلام دکتر عباس ملکی",
+    "maddah": "میثم مطیعی",
+    "address": "مشهد، خیابان احمدآباد، مسجد حضرت ولی‌عصر",
+    "location": { "lat": 35.7433, "lng": 51.4667 },
+    "datetime_start": "۱۴۰۴/۰۹/۱۴ ۲۰:۰۰",
+    "datetime_end": "۱۴۰۴/۰۹/۱۴ ۲۲:۰۰",
+    "description": "مراسم ایام فاطمیه همراه با حضور خانواده‌ها.",
+    "poster_url": "https://example.com/posters/heiat1.jpg",
+    "contact": "۰۵۱-۱۲۳۴۵۶۷۸",
+    "repeat": "ONCE"
+  }
+}

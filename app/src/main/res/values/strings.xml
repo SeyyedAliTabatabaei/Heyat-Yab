@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Heyat Yab</string>
+
+    <string name="home">خانه</string>
+    <string name="profile">حساب کاربری</string>
+    <string name="operation_successful">عملیات با موفقیت انجام شد</string>
+    <string name="operation_error">خطا در انجام عملیات</string>
+    <string name="location_permission">لطفاً دسترسی لوکیشن را فعال کنید</string>
+</resources>
