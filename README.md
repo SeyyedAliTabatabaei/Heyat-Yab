@@ -9,8 +9,8 @@ With real-time location tracking, the app shows you the closest active or upcomi
 - Organizer information
 - Type of ceremony and additional notes
 
-|<img src="screenShots/img1.jpeg" width="100%"/>|<img src="screenShots/img2.jpeg" width="100%"/>|
-|---|---|
+## Download Application (APK)
+[![Download Heatyab APK](https://img.shields.io/github/v/release/yourusername/Heatyab?color=00b16a&label=دانلود%20APK&logo=android&style=for-the-badge)](https://github.com/SeyyedAliTabatabaei/Heyat-Yab/raw/refs/heads/master/app-debug.apk)
 
 ## Tech Stack & Libraries
 | Category                  | Technology / Library                                 |
@@ -25,3 +25,7 @@ With real-time location tracking, the app shows you the closest active or upcomi
 | Networking                | Retrofit + OkHttp                                     |
 | Mocking & Testing         | OkHttp MockWebServer + MockInterceptor                |
 | Navigation                | Jetpack Navigation Component (Compose)                |
+
+
+|<img src="screenShots/img1.jpeg" width="100%"/>|<img src="screenShots/img2.jpeg" width="100%"/>|
+|---|---|
