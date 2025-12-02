@@ -10,7 +10,7 @@ With real-time location tracking, the app shows you the closest active or upcomi
 - Type of ceremony and additional notes
 
 ## Download Application (APK)
-[![Download Heatyab APK](https://img.shields.io/github/v/release/yourusername/Heatyab?color=00b16a&label=دانلود%20APK&logo=android&style=for-the-badge)](https://github.com/SeyyedAliTabatabaei/Heyat-Yab/raw/refs/heads/master/app-debug.apk)
+[![Download Heatyab APK](https://img.shields.io/badge/Download-8A2BE2)](https://github.com/SeyyedAliTabatabaei/Heyat-Yab/raw/refs/heads/master/app-debug.apk)
 
 ## Tech Stack & Libraries
 | Category                  | Technology / Library                                 |
