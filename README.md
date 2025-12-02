@@ -9,7 +9,7 @@ With real-time location tracking, the app shows you the closest active or upcomi
 - Organizer information
 - Type of ceremony and additional notes
 
-|<img src="screenShots/img1.jpeg" width="100%"/>|<img src="screenshots/screenshot_2.jpg" width="100%"/>|
+|<img src="screenShots/img1.jpeg" width="100%"/>|<img src="screenShots/img2.jpeg" width="100%"/>|
 |---|---|
 
 ## Tech Stack & Libraries
