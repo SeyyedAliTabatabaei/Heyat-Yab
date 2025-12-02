@@ -25,6 +25,7 @@ class DetailsViewModel @Inject constructor(
     override fun processIntent(intent: DetailsIntent) {
         when(intent) {
             is DetailsIntent.LoadEvent -> getEvent(intent.id)
+            DetailsIntent.OnBack -> sendEffect(DetailsEffect.OnBack)
         }
     }
 

@@ -6,4 +6,10 @@
     <string name="operation_successful">عملیات با موفقیت انجام شد</string>
     <string name="operation_error">خطا در انجام عملیات</string>
     <string name="location_permission">لطفاً دسترسی لوکیشن را فعال کنید</string>
+    <string name="label_speaker">سخنران</string>
+    <string name="label_maddah">مداح</string>
+    <string name="label_address">آدرس</string>
+    <string name="label_start_time">تاریخ شروع</string>
+    <string name="label_end_time">تاریخ پایان</string>
+    <string name="label_contact">شماره تماس</string>
 </resources>

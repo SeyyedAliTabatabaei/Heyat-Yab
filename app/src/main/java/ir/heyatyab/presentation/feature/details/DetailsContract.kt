@@ -13,10 +13,12 @@ data class DetailsUiState (
 @Immutable
 sealed class DetailsIntent : Reducer.ViewIntent{
     data class LoadEvent(val id : Long) : DetailsIntent()
+    data object OnBack : DetailsIntent()
 
 }
 
 @Immutable
 sealed class DetailsEffect : Reducer.ViewEffect {
+    data object OnBack : DetailsEffect()
 
 }

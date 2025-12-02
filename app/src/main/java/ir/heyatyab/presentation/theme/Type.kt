@@ -2,33 +2,62 @@ package ir.heyatyab.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
+import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
+import ir.heyatyab.R
 
-// Set of Material typography styles to start with
+val CustomFontBold = FontFamily(Font(R.font.iransans_bold))
+val CustomFontMedium = FontFamily(Font(R.font.iransans_medium))
+val CustomFontRegular = FontFamily(Font(R.font.iransans_regular))
+
 val Typography = Typography(
-    bodyLarge = TextStyle(
-        fontFamily = FontFamily.Default,
-        fontWeight = FontWeight.Normal,
-        fontSize = 16.sp,
-        lineHeight = 24.sp,
-        letterSpacing = 0.5.sp
-    )
-    /* Other default text styles to override
     titleLarge = TextStyle(
-        fontFamily = FontFamily.Default,
-        fontWeight = FontWeight.Normal,
         fontSize = 22.sp,
-        lineHeight = 28.sp,
-        letterSpacing = 0.sp
+        fontFamily = CustomFontBold,
+        fontWeight = FontWeight(700)
+    ),
+    titleMedium = TextStyle(
+        fontSize = 16.sp,
+        fontFamily = CustomFontBold,
+        fontWeight = FontWeight(700)
+    ),
+    titleSmall = TextStyle(
+        fontSize = 14.sp,
+        fontFamily = CustomFontBold,
+        fontWeight = FontWeight(700)
+    ),
+
+    bodyLarge = TextStyle(
+        fontSize = 16.sp,
+        fontFamily = CustomFontMedium,
+        fontWeight = FontWeight(500)
+    ),
+    bodyMedium = TextStyle(
+        fontSize = 14.sp,
+        fontFamily = CustomFontMedium,
+        fontWeight = FontWeight(500)
+    ),
+    bodySmall = TextStyle(
+        fontSize = 12.sp,
+        fontFamily = CustomFontMedium,
+        fontWeight = FontWeight(500)
+    ),
+
+    labelLarge = TextStyle(
+        fontSize = 14.sp,
+        fontFamily = CustomFontRegular,
+        fontWeight = FontWeight(400)
+    ),
+    labelMedium = TextStyle(
+        fontSize = 12.sp,
+        fontFamily = CustomFontRegular,
+        fontWeight = FontWeight(400)
     ),
     labelSmall = TextStyle(
-        fontFamily = FontFamily.Default,
-        fontWeight = FontWeight.Medium,
-        fontSize = 11.sp,
-        lineHeight = 16.sp,
-        letterSpacing = 0.5.sp
+        fontSize = 10.sp,
+        fontFamily = CustomFontRegular,
+        fontWeight = FontWeight(400)
     )
-    */
 )

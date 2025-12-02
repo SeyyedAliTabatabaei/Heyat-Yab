@@ -68,6 +68,7 @@ dependencies {
     implementation("com.google.accompanist:accompanist-permissions:0.35.0-alpha")
     implementation("com.google.android.gms:play-services-location:21.0.1")
     implementation("com.google.maps.android:maps-compose:2.9.0")
+    implementation("io.coil-kt.coil3:coil-compose:3.0.0")
 
     // OPEN STREET MAP
     implementation("org.osmdroid:osmdroid-android:6.1.16")
